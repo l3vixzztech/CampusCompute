@@ -1,0 +1,9 @@
+# Build outputs
+*.o
+campuscompute
+
+# Runtime logs
+logs/
+
+# Submission archives (source is tracked directly)
+*.zip
