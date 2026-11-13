@@ -7,3 +7,6 @@ logs/
 
 # Submission archives (source is tracked directly)
 *.zip
+
+# Generated submission documents (kept locally)
+*.pdf
