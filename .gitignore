@@ -10,3 +10,6 @@ logs/
 
 # Generated submission documents (kept locally)
 *.pdf
+
+# Locally extracted source archive
+/PES1UG25CS209_src/
